@@ -56,6 +56,9 @@ Este proyecto es una aplicación de escritorio desarrollada en Java que se conec
 - Salida
 ![image](https://github.com/danilomdza/Tarea-Grupal-Parcial-2/assets/162849123/1f1f8ce3-abea-49d2-849b-6f4f543a7ada)
 ![image](https://github.com/danilomdza/Tarea-Grupal-Parcial-2/assets/162849123/bdc1afff-bfdd-4dbd-9f9e-e6fa463b1736)
+![image](https://github.com/danilomdza/Tarea-Grupal-Parcial-2/assets/162849123/7875ee9c-01b3-4f92-a074-516bc34dfdcf)
+![image](https://github.com/danilomdza/Tarea-Grupal-Parcial-2/assets/162849123/02775378-5d06-4215-8886-b9927b9ddad8)
+![image](https://github.com/danilomdza/Tarea-Grupal-Parcial-2/assets/162849123/5603010b-58d3-45e0-be6d-41256422983c)
 
 - Gestor base de datos
 ![image](https://github.com/danilomdza/Tarea-Grupal-Parcial-2/assets/162849123/3324c3a9-f776-475d-b5b9-4022986365e6)
