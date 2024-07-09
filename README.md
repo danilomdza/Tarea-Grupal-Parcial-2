@@ -48,7 +48,7 @@ Este proyecto es una aplicación de escritorio desarrollada en Java que se conec
 - La consulta SQL para la opción "Conductores y Constructores" asume que existe una relación entre las tablas `drivers` y `constructors` basada en el `driver_id`. Asegúrese de ajustar la consulta según su esquema de base de datos real.
 - Este proyecto está diseñado como un ejemplo educativo para demostrar cómo integrar JDBC y Swing en una aplicación Java.
 
-##Evidencia
+## Evidencia
 
 - Entorno
 ![image](https://github.com/danilomdza/Tarea-Grupal-Parcial-2/assets/162849123/d88075bf-85df-4156-981c-7426a908022d)
